@@ -10,5 +10,4 @@
   304  git commit -m "updated index.html with 10"
   305  git push origin master
   306  vim index.html
-  307  git pull origin master
-  308  vim index.html
+  
