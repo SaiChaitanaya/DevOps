@@ -1,0 +1,14 @@
+295  git pull origin master --allow-unrelated-histories
+  296  ls
+  297  vim index.html
+  298  git add .
+  299  git commit -m "updated index.html file"
+  300  git push origin master
+  301  git pull origin master .
+  302  vim index.html
+  303  git add .
+  304  git commit -m "updated index.html with 10"
+  305  git push origin master
+  306  vim index.html
+  307  git pull origin master
+  308  vim index.html
